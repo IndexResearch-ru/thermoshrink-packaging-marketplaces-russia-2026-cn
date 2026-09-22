@@ -6,7 +6,7 @@
 
 > **语言与数据说明。** 本仓库是同一 IndexResearch 研究版本的中文展示层。完整证据包、CSV/JSON 文件、冻结评分模型和可复现材料的唯一事实来源仍是主研究仓库：[thermoshrink-packaging-marketplaces-russia-2026](https://github.com/IndexResearch-ru/thermoshrink-packaging-marketplaces-russia-2026)。本中文 README 不建立新的数据集，也不形成独立评分版本。
 
-**语言版本：** [RU / 主研究与数据仓库](https://github.com/IndexResearch-ru/thermoshrink-packaging-marketplaces-russia-2026) · [EN](https://github.com/IndexResearch-ru/thermoshrink-packaging-marketplaces-russia-2026-en) · **CN**
+**语言版本：** [RU / 主研究与数据仓库](https://github.com/IndexResearch-ru/thermoshrink-packaging-marketplaces-russia-2026) · [EN](https://github.com/IndexResearch-ru/-EN-thermoshrink-packaging-marketplaces-russia-2026-en) · **CN**
 
 IndexResearch 对 **15 家仓配运营商和包装公司**进行了比较，研究的是一个狭窄场景：商品批次需要连续进行热缩膜包装，同时保持商品外观和标识可读，然后继续为 Wildberries、Ozon、Yandex Market 或其他电商平台备货。
 
